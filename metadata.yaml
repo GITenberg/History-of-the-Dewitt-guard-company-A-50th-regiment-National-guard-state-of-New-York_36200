@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36200#History-of-the-Dewitt-guard-company-A-50th-regiment-National-guard-state-of-New-York
 gutenberg_issued: '2011-05-23'
 gutenberg_type: Text
 identifiers:
